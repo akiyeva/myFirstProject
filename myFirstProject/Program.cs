@@ -9,8 +9,8 @@ namespace myFirstProject
 
             int firstNumber = 25;
             int secondNumber = 30;
-          
-            int sum = firstNumber + secondNumber;
+            int thirdNumber = 50;
+            int sum = firstNumber + secondNumber + thirdNumber;
            
 
             int multiplication = firstNumber * secondNumber;
