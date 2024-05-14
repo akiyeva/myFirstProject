@@ -6,7 +6,10 @@ namespace myFirstProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            int firstNumber = 25;
+
+          
         }
     }
 }
