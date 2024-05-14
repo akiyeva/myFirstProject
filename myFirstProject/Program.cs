@@ -8,7 +8,7 @@ namespace myFirstProject
         {
 
             int firstNumber = 25;
-
+            int secondNumber = 30;
           
         }
     }
