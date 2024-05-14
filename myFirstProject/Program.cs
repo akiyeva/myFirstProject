@@ -11,9 +11,11 @@ namespace myFirstProject
             int secondNumber = 30;
           
             int sum = firstNumber + secondNumber;
-            Console.WriteLine(sum);
+           
 
             int multiplication = firstNumber * secondNumber;
+            Console.WriteLine(multiplication);
+            Console.WriteLine(sum);
         }
     }
 }
