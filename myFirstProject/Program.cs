@@ -10,6 +10,7 @@ namespace myFirstProject
             int firstNumber = 25;
             int secondNumber = 30;
           
+            int sum = firstNumber + secondNumber;
         }
     }
 }
