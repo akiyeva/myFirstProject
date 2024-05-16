@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CoreSharp
+namespace myFirstProject
 {
     internal class Program
     {
